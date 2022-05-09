@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/yarn,node,react
-# Edit at https://www.toptal.com/developers/gitignore?templates=yarn,node,react
+# Created by https://www.toptal.com/developers/gitignore/api/yarn,react,node
+# Edit at https://www.toptal.com/developers/gitignore?templates=yarn,react,node
 
 ### Node ###
 # Logs
@@ -172,4 +172,4 @@ sketch
 # and uncomment the following lines
 # .pnp.*
 
-# End of https://www.toptal.com/developers/gitignore/api/yarn,node,react
+# End of https://www.toptal.com/developers/gitignore/api/yarn,react,node
