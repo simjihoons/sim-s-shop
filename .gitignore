@@ -173,3 +173,7 @@ sketch
 # .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/yarn,react,node
+
+
+#추가
+dev.js
