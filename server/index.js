@@ -25,7 +25,7 @@ mongoose
   .then(() => console.log("MongoDB 연결 성공"))
   .catch((err) => console.log(err));
 
-app.get("/", (req, res) => res.send("여기여기"));
+app.get("/", (req, res) => res.send("여기여기!!!"));
 
 // 회원가입 라우터 start==============================================================
 app.post("/api/users/register", (req, res) => {
